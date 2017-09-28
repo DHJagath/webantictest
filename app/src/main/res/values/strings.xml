@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WebnaticTest</string>
+    <string name="month_sales_btn">Monthly Sales</string>
+    <string name="hour_activity_btn">Hourly Activity Count</string>
+    <string name="month_text">Month</string>
+    <string name="sales_text">Sales</string>
 </resources>
